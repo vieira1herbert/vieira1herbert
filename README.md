@@ -28,7 +28,7 @@ Atualmente, estou ligado à **Sol Atacadista da Tecnologia**, em Brasília, e co
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,firebase,sqlite,html,css,git,github,githubactions,vscode&perline=13" alt="Tecnologias principais" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,js,ts,react,firebase,sqlite,html,css,git,github,githubactions,vscode&perline=14" alt="Tecnologias principais" />
 </p>
 
 <p align="center">
@@ -36,6 +36,9 @@ Atualmente, estou ligado à **Sol Atacadista da Tecnologia**, em Brasília, e co
   <img src="https://img.shields.io/badge/React_Native-Aplicações%20Mobile-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Streamlit-Dashboards-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/SQL-Dados%20Relacionais-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-Back--end%20e%20POO-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Codex-Desenvolvimento%20Assistido-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Claude-Análise%20e%20Implementação-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 ## Projetos selecionados
