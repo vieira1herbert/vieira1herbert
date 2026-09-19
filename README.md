@@ -98,10 +98,13 @@ Impacto no negócio  ←  Métricas e documentação  ←  Testes e observabilid
 
 ## Atividade no GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vieira1herbert&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=34d399&locale=pt-br" alt="Estatísticas de Herbert Vieira no GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira1herbert&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&locale=pt-br" alt="Linguagens mais utilizadas" />
-</p>
+Minha atividade, contribuições e evolução técnica podem ser acompanhadas diretamente pelas áreas nativas do GitHub:
+
+| Visão | Acesso |
+|---|---|
+| Projetos públicos | [Explorar repositórios](https://github.com/vieira1herbert?tab=repositories) |
+| Histórico de contribuições | [Ver atividade no perfil](https://github.com/vieira1herbert#year-list-container) |
+| Projeto corporativo principal | [Conhecer o Santri Exportações](https://github.com/vieira1herbert/santri-exportacoes) |
 
 <p align="center">
   <strong>Engenharia de software aplicada a processos, dados e resultados.</strong><br />
