@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Herbert Vieira — Full Stack Software Developer" width="100%" />
+  <img src="assets/profile-header-full-stack.svg" alt="Herbert Vieira — Full Stack Software Developer" width="100%" />
 </p>
 
 <p align="center">
