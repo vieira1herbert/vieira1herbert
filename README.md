@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Herbert Vieira — Software Developer" width="100%" />
+  <img src="assets/profile-header.svg" alt="Herbert Vieira — Full Stack Software Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Perfil profissional
 
-Sou **Desenvolvedor de Software**, formado em **Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília**, com atuação orientada à construção de soluções que conectam engenharia de software, automação de processos e análise de dados.
+Sou **Full Stack Software Developer**, formado em **Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília**, com atuação orientada à construção de soluções que conectam back-end, front-end, aplicações mobile, automação de processos e análise de dados.
 
 Minha experiência prática está concentrada em transformar rotinas operacionais em produtos confiáveis: aplicações corporativas, integrações com ERP, dashboards gerenciais, sistemas web e aplicativos mobile. Trabalho com uma visão de produto e negócio, priorizando **segurança, rastreabilidade, qualidade de código, documentação e impacto mensurável**.
 

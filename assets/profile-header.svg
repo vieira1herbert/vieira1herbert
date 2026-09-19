@@ -1,5 +1,5 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Herbert Vieira — Software Developer</title>
+  <title id="title">Herbert Vieira — Full Stack Software Developer</title>
   <desc id="desc">Banner profissional com foco em software, automação e dados.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -21,7 +21,7 @@
   <path d="M870 58h220M900 92h190M930 126h160" stroke="#7dd3fc" stroke-width="2" opacity="0.22"/>
   <rect x="70" y="67" width="7" height="186" rx="3.5" fill="url(#accent)"/>
   <text x="110" y="134" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1">Herbert Vieira</text>
-  <text x="112" y="184" fill="#7dd3fc" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="2">SOFTWARE DEVELOPER</text>
-  <text x="112" y="226" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Software Engineering  •  Automation  •  Data  •  AI</text>
+  <text x="112" y="184" fill="#7dd3fc" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="2">FULL STACK SOFTWARE DEVELOPER</text>
+  <text x="112" y="226" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Back-end  •  Front-end  •  Mobile  •  Automation  •  Data  •  AI</text>
   <text x="112" y="264" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="17">Brasília, Brazil</text>
 </svg>
