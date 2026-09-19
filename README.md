@@ -14,8 +14,6 @@ Sou **Full Stack Software Developer**, formado em **Análise e Desenvolvimento d
 
 Minha experiência prática está concentrada em transformar rotinas operacionais em produtos confiáveis: aplicações corporativas, integrações com ERP, dashboards gerenciais, sistemas web e aplicativos mobile. Trabalho com uma visão de produto e negócio, priorizando **segurança, rastreabilidade, qualidade de código, documentação e impacto mensurável**.
 
-Atualmente, estou ligado à **Sol Atacadista da Tecnologia**, em Brasília, e continuo aprofundando conhecimentos em arquitetura de software, inteligência artificial, LLMs, RAG e engenharia de dados.
-
 ## Especialidades
 
 | Engenharia de software | Automação e integração | Dados e inteligência |
